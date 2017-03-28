@@ -1,0 +1,10 @@
+c:\users\amaro\documents\visual studio 2013\Projects\SimpleCalc\bin\Debug\SimpleCalc.exe.config
+C:\Users\Amaro\Documents\Visual Studio 2013\Projects\SimpleCalc\bin\Debug\SimpleCalc.exe
+C:\Users\Amaro\Documents\Visual Studio 2013\Projects\SimpleCalc\bin\Debug\SimpleCalc.pdb
+C:\Users\Amaro\Documents\Visual Studio 2013\Projects\SimpleCalc\bin\Debug\SimpleCalc.xml
+C:\Users\Amaro\Documents\Visual Studio 2013\Projects\SimpleCalc\obj\Debug\SimpleCalc.Form1.resources
+C:\Users\Amaro\Documents\Visual Studio 2013\Projects\SimpleCalc\obj\Debug\SimpleCalc.Resources.resources
+C:\Users\Amaro\Documents\Visual Studio 2013\Projects\SimpleCalc\obj\Debug\SimpleCalc.vbproj.GenerateResource.Cache
+C:\Users\Amaro\Documents\Visual Studio 2013\Projects\SimpleCalc\obj\Debug\SimpleCalc.exe
+C:\Users\Amaro\Documents\Visual Studio 2013\Projects\SimpleCalc\obj\Debug\SimpleCalc.xml
+C:\Users\Amaro\Documents\Visual Studio 2013\Projects\SimpleCalc\obj\Debug\SimpleCalc.pdb
